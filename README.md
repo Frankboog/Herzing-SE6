@@ -1,21 +1,22 @@
 # Herzing-SE6
 
 ## Description:
-The day is reduced to 12 seconds for simulation purposes. 24hrs = 24 seconds. Cut in half again for simulation to 12 seconds.
-5 events with a 2 second delay each = 10 seconds. There should be another 2 second delay at the end of each iteration, 
-but for the sake of time is excluded from simulation. The images show events for days 1-3 and the last day. 
-The FSM runs for 7 simulated days and produces 5 random events everyday.
+It took some time for me to get Springboot working. In the course of focusing on functionality, 
+I made a product manager (because it was easy) not realizing it was not one of the options.
+I want you to know that I finally understand where the project is going.
+Server side for customers and clients, and the JavaFX backend for Admin, Gus, managers, etc.
+The Product Table is not really a good choice for server side access, but I didn't get the epiphany until the app was complete.
 
-The Flow is the randomly generated number between 0-2. The Status (1-4) is the result of the flow number. 
-I inclide the Flow and Status numbers on every Event Print-Out for testing purposes.
+Please accept this submission as an example of a fully functional CRUD Springboot and Java project.
 
-An old professor (from OOPII) once told me he would like to see the thread created inside of the object. Nuff said.
+I don't know if I will have time to update or add more services before the end of this course, but I will definitely update for the next class.
+Also, the Delete is just a press and "you're out of here" type of situation, so couldn't really get an image of the action.
+
+Every phase of the Springboot CRUD project works like a charm.
 
 ## Team:
 Frank James
 
-## How To:
-Just run the program, the code does the rest.
 
 ## Springboot:
 ![](images/spring_boot.PNG)
