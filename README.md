@@ -1,8 +1,9 @@
 # Herzing-SE6
 
 ## Description:
-It took some time for me to get Springboot working. In the course of focusing on functionality, 
-I made a product manager (because it was easy) not realizing it was not one of the options.
+It took some time for me to get Spring Boot application working to MY satisfaction. 
+It turns out in the course of focusing on functionality, I made an error.
+I made a product manager interface (because it was easy) not realizing it was not one of the options.
 I want you to know that I finally understand where the project is going.
 Server side for customers and clients, and the JavaFX backend for Admin, Gus, managers, etc.
 The Product Table is not really a good choice for server side access, but I didn't get the epiphany until the app was complete.
